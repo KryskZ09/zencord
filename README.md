@@ -13,11 +13,11 @@ based on your system:
 ### Unix (Linux, MacOS)
 
 ```sh	
-cd <POWERCORD>/src/Powercord/plugins && git clone https://github.com/KryskZ09/peaceofmind
+cd <POWERCORD>/src/Powercord/plugins && git clone https://github.com/KryskZ09/zencord
 ```
 ### Windows
 ```sh
-cd <POWERCORD>\src\Powercord\plugins && git clone https://github.com/KryskZ09/peaceofmind
+cd <POWERCORD>\src\Powercord\plugins && git clone https://github.com/KryskZ09/zencord
 ```
 
 ---
