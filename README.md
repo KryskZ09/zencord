@@ -2,6 +2,8 @@
 Originally developed by [Nevvulo](https://github.com/Nevvulo), this is a
 Powercord plugin that introduces Zen mode for Discord, similar to Visual Studio Code's Zen mode.
 
+Credits to [theGordHoard](https://github.com/theGordHoard) for the updated CSS snippets.
+
 ---
 
 ## Installation
