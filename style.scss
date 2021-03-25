@@ -1,3 +1,5 @@
+$zen_padding: 10%;
+
 .zen-mode {
   .sidebar-2K8pFh,
   .membersWrap-2h-GB4,
@@ -12,7 +14,7 @@
   
   .chatContent-a9vAAp,
   form {
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: $zen_padding;
+    padding-right: $zen_padding;
   }
 }

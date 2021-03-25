@@ -10,6 +10,9 @@ Credits to [theGordHoard](https://github.com/theGordHoard) for the updated CSS s
 ## Installation
 Go to where you installed Powercord, denoted as <POWERCORD> (i.e. Desktop/Powercord) and enter the command
 based on your system:
+
+### Configuration
+To configure the padding on the sides of the chat window, change the `$zen_padding` variable's percentage in `style.scss`. I recommend either 10% (default) or 15%.
 ### Unix (Linux, MacOS)
 
 ```sh	
